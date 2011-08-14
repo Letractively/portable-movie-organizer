@@ -4,8 +4,8 @@
 
 ==Installation==
 ===Windows===
-  *TODO
+  * TODO
 
 
 ==Usage==
-  *TODO
+  * TODO
