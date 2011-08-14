@@ -1,0 +1,15 @@
+#summary Screenshots of the application
+
+= Screenshots =
+
+The main interface:
+http://dl.dropbox.com/u/11681823/portable-movie-organizer/Screenshot-2.png
+
+The dialog to add a new movie:
+http://dl.dropbox.com/u/11681823/portable-movie-organizer/Screenshot-1.png
+
+Results of scan of the library to discover new movies:
+http://dl.dropbox.com/u/11681823/portable-movie-organizer/Screenshot.png
+
+The dialog to add tags to movies:
+http://dl.dropbox.com/u/11681823/portable-movie-organizer/Screenshot-3.png 
