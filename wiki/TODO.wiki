@@ -10,3 +10,4 @@
   * Ability to copy movies to another location
   * Automatically organize the movies directory
   * Package into a nice little installer
+  * Thumbnail view
