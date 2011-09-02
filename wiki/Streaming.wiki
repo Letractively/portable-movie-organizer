@@ -4,6 +4,8 @@
 
 Note: this feature is only available the svn repo (revision 57), and vlc version 1.2.0 (which has not been officially released, see below on instructions on how to get it)
 
+Warning: Experimental feature so expect problems. DO NOT run this outside of your LAN, I cannot make any guarantees about security.
+
 
 == Installing vlc 1.2.0-git ==
 
